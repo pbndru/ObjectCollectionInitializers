@@ -1,0 +1,6 @@
+c:\users\pbandaru1\documents\visual studio 2015\Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\bin\Debug\ObjectAndCollectionInitializers.exe.config
+c:\users\pbandaru1\documents\visual studio 2015\Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\bin\Debug\ObjectAndCollectionInitializers.exe
+c:\users\pbandaru1\documents\visual studio 2015\Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\bin\Debug\ObjectAndCollectionInitializers.pdb
+c:\users\pbandaru1\documents\visual studio 2015\Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\obj\Debug\ObjectAndCollectionInitializers.csprojResolveAssemblyReference.cache
+c:\users\pbandaru1\documents\visual studio 2015\Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\obj\Debug\ObjectAndCollectionInitializers.exe
+c:\users\pbandaru1\documents\visual studio 2015\Projects\ObjectAndCollectionInitializers\ObjectAndCollectionInitializers\obj\Debug\ObjectAndCollectionInitializers.pdb
